@@ -26,7 +26,8 @@
 
 
 下面这些标签可用在 head 部分：<base>, <link>, <meta>, <script>, <style>, 以及 <title>。
-  
+
+
 其中，<title> 定义文档的标题，它是 head 部分中唯一必需的元素。
 
 
